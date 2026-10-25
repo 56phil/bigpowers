@@ -1,3 +1,10 @@
+## [2.88.14](https://github.com/danielvm-git/bigpowers/compare/v2.88.13...v2.88.14) (2026-10-25)
+
+
+### Bug Fixes
+
+* **ci:** gate release on every check in one test-build-release pipeline ([#162](https://github.com/danielvm-git/bigpowers/issues/162)) ([14250d8](https://github.com/danielvm-git/bigpowers/commit/14250d843011da03f766de59f18371276fe16478))
+
 ## [2.88.13](https://github.com/danielvm-git/bigpowers/compare/v2.88.12...v2.88.13) (2026-10-25)
 
 
