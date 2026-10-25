@@ -1,3 +1,11 @@
+## [2.88.10](https://github.com/danielvm-git/bigpowers/compare/v2.88.9...v2.88.10) (2026-10-25)
+
+
+### Bug Fixes
+
+* **install:** support Windows without symlink privilege ([#135](https://github.com/danielvm-git/bigpowers/issues/135)) ([c47e3c5](https://github.com/danielvm-git/bigpowers/commit/c47e3c5465679046fe980be0c5593a489efee793)), closes [#134](https://github.com/danielvm-git/bigpowers/issues/134)
+* **srp:** resolve bash via PATH so adapters run on Windows ([#137](https://github.com/danielvm-git/bigpowers/issues/137)) ([c89f4f5](https://github.com/danielvm-git/bigpowers/commit/c89f4f563ed981a312f84cc6ac38e82a9826cd08))
+
 ## [2.88.9](https://github.com/danielvm-git/bigpowers/compare/v2.88.8...v2.88.9) (2026-09-21)
 
 
