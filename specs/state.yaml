@@ -2,14 +2,14 @@ active_flow: null
 active_epic: null
 active_story: null
 bug_id: null
-bigpowers_version: 2.88.12
+bigpowers_version: 2.88.13
 bug_cycle: null
 handoff:
   next_skill: null
-  context: 'BUG-2026-10-25-ci-critical-path RESOLVED — PR #161. Golden Suite 7m24s -> 1m25s (run
-    40192307998): story-verify gate skipped in CI (runs in its own job), identical story verifies run once,
-    G-13 single-pass scan, failing gates print output, workflow timeouts and non-cancelling release/pages.
-    Follow-up: consolidate into one test-build-release pipeline.'
+  context: 'BUG-2026-10-25-ci-critical-path RESOLVED — PR #161. Golden Suite 7m24s -> 1m25s (run 40192307998):
+    story-verify gate skipped in CI (runs in its own job), identical story verifies run once, G-13 single-pass
+    scan, failing gates print output, workflow timeouts and non-cancelling release/pages. Follow-up: consolidate
+    into one test-build-release pipeline.'
   epic: null
 epic_cycle: null
 metrics:

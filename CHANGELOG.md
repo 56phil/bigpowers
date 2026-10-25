@@ -1,3 +1,10 @@
+## [2.88.13](https://github.com/danielvm-git/bigpowers/compare/v2.88.12...v2.88.13) (2026-10-25)
+
+
+### Bug Fixes
+
+* **ci:** cut golden suite critical path by removing duplicate gate work ([#161](https://github.com/danielvm-git/bigpowers/issues/161)) ([2db0bb9](https://github.com/danielvm-git/bigpowers/commit/2db0bb98663ae7f44e1990f06e9f90b6db60a773))
+
 ## [2.88.12](https://github.com/danielvm-git/bigpowers/compare/v2.88.11...v2.88.12) (2026-10-25)
 
 
