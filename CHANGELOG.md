@@ -1,3 +1,10 @@
+## [2.88.15](https://github.com/danielvm-git/bigpowers/compare/v2.88.14...v2.88.15) (2026-10-25)
+
+
+### Bug Fixes
+
+* **ci:** gate the GitHub Pages deploy on every check in test-build-release ([#164](https://github.com/danielvm-git/bigpowers/issues/164)) ([5f3e4de](https://github.com/danielvm-git/bigpowers/commit/5f3e4de59454d5ffe95d932a3da873db7b4e1d80))
+
 ## [2.88.14](https://github.com/danielvm-git/bigpowers/compare/v2.88.13...v2.88.14) (2026-10-25)
 
 
