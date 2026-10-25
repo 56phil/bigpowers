@@ -1,3 +1,17 @@
+## [2.88.11](https://github.com/danielvm-git/bigpowers/compare/v2.88.10...v2.88.11) (2026-10-25)
+
+
+### Bug Fixes
+
+* **guard:** resolve git branch per command target, not process cwd ([#154](https://github.com/danielvm-git/bigpowers/issues/154)) ([07c7498](https://github.com/danielvm-git/bigpowers/commit/07c749803c4d5d1c2499c01255fad138ce88e870))
+* **lockfile:** add missing slash in skill path + self-contained resolve_repo_root ([#156](https://github.com/danielvm-git/bigpowers/issues/156)) ([04bda15](https://github.com/danielvm-git/bigpowers/commit/04bda157195f39816cd388a2fb4b0829ca19b20f))
+* **omp-hooks:** inGitRepo bail-early, accept type!(scope) form, echo subject ([#157](https://github.com/danielvm-git/bigpowers/issues/157)) ([9e1b11a](https://github.com/danielvm-git/bigpowers/commit/9e1b11aaf4c63fa951c6916fabda13a836b56f2d)), closes [#147](https://github.com/danielvm-git/bigpowers/issues/147) [#151](https://github.com/danielvm-git/bigpowers/issues/151) [#151](https://github.com/danielvm-git/bigpowers/issues/151)
+
+
+### Performance Improvements
+
+* **sync:** render all skills in one bash process per adapter ([#155](https://github.com/danielvm-git/bigpowers/issues/155)) ([1b56463](https://github.com/danielvm-git/bigpowers/commit/1b564639771c39c3d4bc712f09912751a56ab8ee)), closes [#137](https://github.com/danielvm-git/bigpowers/issues/137)
+
 ## [2.88.10](https://github.com/danielvm-git/bigpowers/compare/v2.88.9...v2.88.10) (2026-10-25)
 
 
