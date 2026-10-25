@@ -1,3 +1,10 @@
+## [2.88.16](https://github.com/danielvm-git/bigpowers/compare/v2.88.15...v2.88.16) (2026-10-25)
+
+
+### Bug Fixes
+
+* **receipts:** read golden suite counts from deterministic block ([#166](https://github.com/danielvm-git/bigpowers/issues/166)) ([56ecb93](https://github.com/danielvm-git/bigpowers/commit/56ecb9373e730ecbdca45e7a08129dfc0324d27e))
+
 ## [2.88.15](https://github.com/danielvm-git/bigpowers/compare/v2.88.14...v2.88.15) (2026-10-25)
 
 
