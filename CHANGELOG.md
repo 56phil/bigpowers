@@ -1,3 +1,11 @@
+## [2.88.12](https://github.com/danielvm-git/bigpowers/compare/v2.88.11...v2.88.12) (2026-10-25)
+
+
+### Bug Fixes
+
+* **install,skills:** config bridge append, worktree TDD gate, story tags, audit args ([#158](https://github.com/danielvm-git/bigpowers/issues/158)) ([120a0d9](https://github.com/danielvm-git/bigpowers/commit/120a0d993df3af671c1e3acdeb78934830ee7ddd)), closes [#149](https://github.com/danielvm-git/bigpowers/issues/149) [#142](https://github.com/danielvm-git/bigpowers/issues/142) [#140](https://github.com/danielvm-git/bigpowers/issues/140) [#141](https://github.com/danielvm-git/bigpowers/issues/141)
+* live receipts page data + restore green CI on main ([#159](https://github.com/danielvm-git/bigpowers/issues/159)) ([6136322](https://github.com/danielvm-git/bigpowers/commit/6136322a0f436be22c96f4a7a005d4744de29c29)), closes [#158](https://github.com/danielvm-git/bigpowers/issues/158)
+
 ## [2.88.11](https://github.com/danielvm-git/bigpowers/compare/v2.88.10...v2.88.11) (2026-10-25)
 
 
